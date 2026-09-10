@@ -3,12 +3,7 @@
 <img width="229" height="157" alt="Screenshot 2026-08-27 16 32 48" src="https://github.com/user-attachments/assets/f1d6a4bc-9630-459c-ae4c-8e3b1195e08c" />
 <3
 <p></p>
-    
- <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31isjnv22efuaintnx52mswxhmee&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1b0c22&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=fc97bf&bar_color_cover=false">
-  </a>
-</p>
+
   
 <!--
 **deathbydodgeball/deathbydodgeball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
