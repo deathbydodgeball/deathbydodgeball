@@ -1,6 +1,6 @@
 ### hi
 
-$${\color{#ff548a}Hello!!!! \space Nǐ hǎo!!!! \space \color{#ffdb38}Hallo!!!! \space Privet!!!!! \space \color{#60b8f7}Hola!!!!! \space Bonjour!!!! \space \color{#b849fc}sdnjwhahduiajdha :DD }$$
+$${\color{#ff548a}hi \space im \space \color{#ffdb38}messing \space around \space \color{#60b8f7}with \space this \space \color{#b849fc}ok bye }$$
 
 <p align="center">
 <img width="229" height="157" alt="Screenshot 2026-08-27 16 32 48" src="https://github.com/user-attachments/assets/f1d6a4bc-9630-459c-ae4c-8e3b1195e08c" />
