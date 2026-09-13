@@ -1,4 +1,7 @@
 ### hi
+
+$${\color{#ff548a}Hello!!!! \space Nǐ hǎo!!!! \space \color{#ffdb38}Hallo!!!! \space Privet!!!!! \space \color{#60b8f7}Hola!!!!! \space Bonjour!!!! \space \color{#b849fc}:3 }$$
+
 <p align="center">
 <img width="229" height="157" alt="Screenshot 2026-08-27 16 32 48" src="https://github.com/user-attachments/assets/f1d6a4bc-9630-459c-ae4c-8e3b1195e08c" />
 me and my daddy qaddy waddy eaddy raddy taddy uaddy yaddy iaddy oaddy paddy saddy aaddy faddy gaddy haddy jaddy kaddy laddy maddy baddy naddy vaddy caddy xaddy zaddy boo boo bear pookie honey sunshine darling fuzzy cute sweetheart sweetie pie sweet pea baby nugget cutie patootie cutie pie amazing adorable lovely pretty handsome bunni teddy bear zachie <333
