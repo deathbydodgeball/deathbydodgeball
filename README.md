@@ -1,6 +1,7 @@
 ### hi
 
-$${\color{#ff548a}hi \space im \space \color{#ffdb38}messing \space around \space \color{#60b8f7}with \space this \space \color{#b849fc}ok bye }$$
+$${\color{#ff548a}\mathfrak{hi} \space \color{#ffdb38}\mathfrak{im} \space \color{#ffdb38}\mathfrak{messing} \space \color{#ffdb38}\mathfrak{around} \space \color{#60b8f7}\mathfrak{with} \space \color{#60b8f7}\mathfrak{this} \space \color{#b849fc}\mathfrak{ok} \space \color{#b849fc}\mathfrak{bye}}$$
+
 
 <p align="center">
 <img width="229" height="157" alt="Screenshot 2026-08-27 16 32 48" src="https://github.com/user-attachments/assets/f1d6a4bc-9630-459c-ae4c-8e3b1195e08c" />
