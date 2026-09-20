@@ -21,13 +21,10 @@ $${\color{#1a4b9a}\mathfrak{◟} \space \space \color{#1a4b9a}\mathfrak{..you} \
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31isjnv22efuaintnx52mswxhmee&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31isjnv22efuaintnx52mswxhmee&cover_image=true&theme=novatorem&show_offline=true&background_color=4d4d4d&interchange=false&profanity=false&hide_remaster=false&bar_color=e2abd4&bar_color_cover=false">
   </a>
 </p>
 <br><br><br>
-<p align="center">
-<img width="700" height="" alt="wswswswswsws" src="https://github.com/user-attachments/assets/0d169323-8f3e-4a58-99de-cf791611731c" />
-</p>
 
 <p align="center">
   wip haaahhahah
