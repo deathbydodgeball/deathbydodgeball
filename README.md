@@ -29,4 +29,6 @@ $${\color{#1a4b9a}\mathfrak{◟} \space \space \color{#1a4b9a}\mathfrak{..you} \
 <img width="700" height="" alt="wswswswswsws" src="https://github.com/user-attachments/assets/0d169323-8f3e-4a58-99de-cf791611731c" />
 </p>
 
-wip
+<p align="center">
+  wip haaahhahah
+</p>
