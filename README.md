@@ -1,7 +1,7 @@
 ###  ^_^ DONTREADME.md
 
 <p align="center">
-<img width="800" height="" alt="252caa08-de47-4217-850c-88749df58f1d" src="https://github.com/user-attachments/assets/ad5623bf-2e6c-4abc-b96d-40c93145919e" />
+<img width="1000" height="" alt="87217198-c9eb-4a0a-ae20-a86533ca005b" src="https://github.com/user-attachments/assets/8e38399e-3eed-48e1-bde2-9c7126d70f3b" />
 </p>
 
 $${\color{#1a4b9a}\mathfrak{˚.} \space \color{#1a4b9a}\mathfrak{when} \space \color{#79448a}\mathfrak{im} \space \color{#79448a}\mathfrak{in} \space \color{#886ed1}\mathfrak{your} \space \color{#886ed1}\mathfrak{arms..} \space \color{#d593dd}\mathfrak{𓍼} \space \color{#d593dd}\mathfrak{◞}}$$
