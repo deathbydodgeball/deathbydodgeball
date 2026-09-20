@@ -20,6 +20,10 @@ $${\color{#1a4b9a}\mathfrak{◟} \space \space \color{#1a4b9a}\mathfrak{..you} \
 <br><br><br>
 
 <p align="center">
+  <em><a href="https://pronouns.page">prns</a></em>
+</p>
+
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31isjnv22efuaintnx52mswxhmee&cover_image=true&theme=novatorem&show_offline=true&background_color=4d4d4d&interchange=false&profanity=false&hide_remaster=false&bar_color=e2abd4&bar_color_cover=false">
   </a>
@@ -27,5 +31,5 @@ $${\color{#1a4b9a}\mathfrak{◟} \space \space \color{#1a4b9a}\mathfrak{..you} \
 <br><br><br>
 
 <p align="center">
-  wip haaahhahah
+  wip haaahhahah 
 </p>
