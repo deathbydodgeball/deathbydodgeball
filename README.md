@@ -20,7 +20,8 @@ $${\color{#1a4b9a}\mathfrak{◟} \space \space \color{#1a4b9a}\mathfrak{..you} \
 <br><br><br>
 
 <p align="center">
-  <em><a href="https://en.pronouns.page/@gaburgerSnail">prns</a></em>
+  <em><a href="https://en.pronouns.page/@gaburgerSnail">prns</a></em> ㅤ
+ <em><a href="https://en.pronouns.page/@gaburgerSnail">straw</a></em>
 </p>
 <br><br><br>
 <p align="center">
