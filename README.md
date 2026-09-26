@@ -32,5 +32,5 @@ $${\color{#1a4b9a}\mathfrak{◟} \space \space \color{#1a4b9a}\mathfrak{..you} \
 <br><br><br>
 
 <p align="center">
-  wip haaahhahah 
+  wip hahahahahhahaahhaaha get it cause wip and wip ahhahhhahahahha
 </p>
